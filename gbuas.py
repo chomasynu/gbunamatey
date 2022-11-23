@@ -1,6 +1,6 @@
 import os,math
 if __name__=='__main__':
  s=5
- r=1.091
+ r=1.048
  i=r**s
- print(7./i)
+ print(9./i)
